@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\psake-build\BuildExampleLibTest.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\psake-build\BuildExampleLibTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\BuildExampleLibTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\BuildExampleLibTest\obj\Release\BuildExampleLibTest.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\BuildExampleLibTest\obj\Release\BuildExampleLibTest.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\bin\Debug\BuildExampleLibTest.dll
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\bin\Debug\BuildExampleLibTest.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\bin\Debug\BuildExample.exe
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\bin\Debug\nunit.framework.dll
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\bin\Debug\BuildExample.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\bin\Debug\nunit.framework.xml
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\obj\Debug\BuildExampleLibTest.dll
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExampleLibTest\obj\Debug\BuildExampleLibTest.pdb

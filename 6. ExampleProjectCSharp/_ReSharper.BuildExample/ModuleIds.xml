@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="43AE7B0E-98FF-4732-8549-DD1D000FA494" ModuleId="BuildExample" />
+  <Module PersistentId="5B7307CF-2088-4789-8683-3A8D4B2522F3" ModuleId="BuildExampleTest" />
+  <Module PersistentId="01DFB550-8592-4801-BCD7-82D4158511CC" ModuleId="BuildExampleLibTest" />
+</Modules>

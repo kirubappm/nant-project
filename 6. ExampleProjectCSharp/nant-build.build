@@ -1,0 +1,42 @@
+﻿<project name="build-example" default="build" basedir=".">
+		
+	<target name="clean" description="remove all generated files">
+		<delete dir="nant-output" failonerror="false" />
+	</target>
+	
+	<target name="copy.lib" description="copies reference library files to output folder">
+		<mkdir dir="build-output"></mkdir>
+		<copy file="packages/NUnit.2.6.2/lib/nunit.framework.dll" tofile="build-output/nunit.framework.dll" />
+		<copy file="nant-nunit.config" tofile="build-output/nant-nunit.config" />
+	</target>	
+	
+	<target name="build.src" description="compiles the source code">		
+		<csc target="library" output="build-output/BuildExample.dll">
+			<sources basedir="BuildExample">
+				<include name="**/*.cs" />
+			</sources>
+		</csc>
+	</target>	
+	
+	<target name="build.test" description="compiles the test code">		
+		<csc target="library" output="build-output/BuildExampleTest.dll">
+			<sources basedir="BuildExampleTest">
+				<include name="**/*Test.cs" />
+			</sources>
+			<references basedir=".">
+				<include name="build-output/BuildExample.dll" />
+				<include name="packages/**/nunit*.dll" />
+			</references>
+		</csc>
+	</target>
+	
+	<target name="run.test" description="runs all unit tests">
+		<nunit2>
+			<formatter type="Plain" />
+			<test assemblyname="build-output/BuildExampleTest.dll" appconfig="build-output/nant-nunit.config"/>
+		</nunit2>		
+	</target>
+
+  <target name="build" depends="clean, copy.lib build.src build.test run.test"></target>
+	
+</project>

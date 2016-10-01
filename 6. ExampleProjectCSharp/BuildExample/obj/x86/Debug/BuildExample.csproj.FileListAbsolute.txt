@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExample\bin\Debug\BuildExample.exe
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExample\bin\Debug\BuildExample.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExample\obj\x86\Debug\BuildExample.exe
+c:\users\admin\documents\visual studio 2010\Projects\BuildExample\BuildExample\obj\x86\Debug\BuildExample.pdb

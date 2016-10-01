@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\psake-build\BuildExampleLibTest.dll" total="16" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-11-19" time="15:19:48">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.4984" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample" machine-name="TWCOM1" user="Admin" user-domain="Twcom1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\psake-build\BuildExampleLibTest.dll" executed="True" result="Success" success="True" time="0.149" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Refactoring" executed="True" result="Success" success="True" time="0.143" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="DateParserTest" executed="True" result="Success" success="True" time="0.130" asserts="0">
+            <results>
+              <test-case name="Refactoring.DateParserTest.shouldParseDateForValidInput" executed="True" result="Success" success="True" time="0.098" asserts="3" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfDateIsMoreThan31" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfDateIsNotInteger" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfDateStringCannotBeParsed" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfHourIsMoreThan23" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfHourIsNotInteger" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfHourStringCannotBeParsed" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfMinuteIsMoreThan59" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfMinuteIsNotInteger" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfMinuteStringCannotBeParsed" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfMonthIsMoreThan12" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfMonthIsNotInteger" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfMonthStringCannotBeParsed" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfYearIsLessThan2000" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfYearIsNotInteger" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Refactoring.DateParserTest.shouldThrowExceptionIfYearStringCannotBeParsed" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

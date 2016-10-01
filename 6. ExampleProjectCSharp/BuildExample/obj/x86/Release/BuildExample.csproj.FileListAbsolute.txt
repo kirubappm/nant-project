@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\psake-build\BuildExample.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\psake-build\BuildExample.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\BuildExample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\BuildExample\obj\x86\Release\BuildExample.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BuildExample\BuildExample\obj\x86\Release\BuildExample.pdb

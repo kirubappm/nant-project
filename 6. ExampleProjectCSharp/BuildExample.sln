@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildExample", "BuildExample\BuildExample.csproj", "{43AE7B0E-98FF-4732-8549-DD1D000FA494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildExampleLibTest", "BuildExampleLibTest\BuildExampleLibTest.csproj", "{01DFB550-8592-4801-BCD7-82D4158511CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Debug|x86.ActiveCfg = Debug|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Debug|x86.Build.0 = Debug|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Release|Any CPU.ActiveCfg = Release|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Release|Mixed Platforms.Build.0 = Release|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Release|x86.ActiveCfg = Release|x86
+		{43AE7B0E-98FF-4732-8549-DD1D000FA494}.Release|x86.Build.0 = Release|x86
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{01DFB550-8592-4801-BCD7-82D4158511CC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
